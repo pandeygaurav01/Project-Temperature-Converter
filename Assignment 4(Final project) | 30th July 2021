@@ -1,0 +1,6 @@
+# Project-Temperature-Converter
+#Project for the class
+
+Celcius = float(input("Enter the celcius temperature:"))
+Celcius = (Celcius * (9/5))+32
+print ("Your Temperature in Fahrenheit is:", Celcius,"F")
